@@ -2,6 +2,8 @@
 
 Curated awesome backend for frontend pattern presented by [Sam Newman](https://samnewman.io/).
 
+# Backends For Frontend Pattern
+
 ## Talks
 * [BFF Pattern in Action: SoundCloud’s Microservices](https://www.youtube.com/watch?v=jfN6HOgURXM)
 * [Backends for frontends with GraphQL](https://youtu.be/GLp2RccPPIo)
