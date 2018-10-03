@@ -2,8 +2,6 @@
 
 Curated awesome backend for frontend pattern presented by [Sam Newman](https://samnewman.io/).
 
-
-# Links
 ## Talks
 * [Backends for frontends with GraphQL](https://youtu.be/GLp2RccPPIo)
 * [Why Backend for Frontend Is Key to Your Microservices Journey](https://www.youtube.com/watch?v=PwgQZ8eCGxA)
@@ -11,3 +9,7 @@ Curated awesome backend for frontend pattern presented by [Sam Newman](https://s
 
 ## Blog posts
 * [BFF @ SoundCloud](https://www.thoughtworks.com/insights/blog/bff-soundcloud)
+
+## Podcast
+
+[BFF @ SoundCloud](https://www.thoughtworks.com/insights/blog/podcast-bff-soundcloud-0)
