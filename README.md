@@ -9,6 +9,7 @@ Curated awesome backend for frontend pattern presented by [Sam Newman](https://s
 
 ## Blog posts
 * [BFF @ SoundCloud](https://www.thoughtworks.com/insights/blog/bff-soundcloud)
+* [The Back-end for Front-end Pattern](http://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html)
 
 ## Podcast
 
