@@ -10,6 +10,7 @@ Curated awesome backend for frontend pattern presented by [Sam Newman](https://s
 * [Backends for frontends with GraphQL](https://youtu.be/GLp2RccPPIo)
 * [Why Backend for Frontend Is Key to Your Microservices Journey](https://www.youtube.com/watch?v=PwgQZ8eCGxA)
 * [Groupon - Why Backend for Frontend Is Key to Your Microservices Journey ](https://www.youtube.com/watch?v=-cxpM1DDEIs&t=1758s)
+
 * [Why BFF (Backend for Frontend) Is Key to Your Microservices Journey: A Morningstar Case Study](https://gotochgo.com/2017/sessions/114)
 
 ## Blog posts
@@ -19,6 +20,7 @@ Curated awesome backend for frontend pattern presented by [Sam Newman](https://s
 * [Resolving the Frontend/Backend API Design Conflict](https://launchany.com/resolving-the-frontendbackend-api-design-conflict/)
 * [Backend for frontend, Facade or Gateway? It depends.](http://dev.academicwork.se/backend-for-frontend-facade-or-gateway-it-depends/)
 * [Building a Backend for Frontend (BFF) For Your Microservices](https://nordicapis.com/building-a-backend-for-frontend-shim-for-your-microservices/)
+
 *[SporTV Play front-end architecture for the Olympic Games](https://blog.guilhermegarnier.com/2017/04/sportv_play_front_end_architecture_for_the_olympic_games/)
 
 
