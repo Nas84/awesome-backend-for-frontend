@@ -12,4 +12,4 @@ Curated awesome backend for frontend pattern presented by [Sam Newman](https://s
 
 ## Podcast
 
-[BFF @ SoundCloud](https://www.thoughtworks.com/insights/blog/podcast-bff-soundcloud-0)
+* [BFF @ SoundCloud](https://www.thoughtworks.com/insights/blog/podcast-bff-soundcloud-0)
