@@ -1,6 +1,6 @@
 # Awesome Backend For Frontend Pattern
 
-Curated awesome backend for frontend pattern presented by [Sam Newman](https://samnewman.io/).
+Curated awesome backend for frontend pattern presented by [Phil Calçado](http://philcalcado.com/).
 
 # Backends For Frontend Pattern
 
