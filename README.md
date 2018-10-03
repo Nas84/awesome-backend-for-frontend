@@ -10,6 +10,7 @@ Curated awesome backend for frontend pattern presented by [Sam Newman](https://s
 * [Backends for frontends with GraphQL](https://youtu.be/GLp2RccPPIo)
 * [Why Backend for Frontend Is Key to Your Microservices Journey](https://www.youtube.com/watch?v=PwgQZ8eCGxA)
 * [Groupon - Why Backend for Frontend Is Key to Your Microservices Journey ](https://www.youtube.com/watch?v=-cxpM1DDEIs&t=1758s)
+* [Akka: A Best Friend (Forever!) for your Backend-for-Frontend (David van Geest)](https://www.youtube.com/watch?v=DRxLFWmvJ8A)
 
 * [Why BFF (Backend for Frontend) Is Key to Your Microservices Journey: A Morningstar Case Study](https://gotochgo.com/2017/sessions/114)
 
@@ -31,6 +32,7 @@ Curated awesome backend for frontend pattern presented by [Sam Newman](https://s
 ## Slides
 
 * [Como BFF (Backend for Frontend) pode ser seu melhor amigo para lidar com diferentes frontends](https://www.slideshare.net/tdc-globalcode/tdc2018sp-trilha-microservices-como-bff-backend-for-frontend-pode-ser-seu-melhor-amigo-para-lidar-com-diferentes-frontends?qid=051a6085-9e58-42bf-bd35-8fd97c9b303a&v=&b=&from_search=1)
+* [BFF Approach](http://jug.mk/presentations/javaskop18/microservices.pdf)
 
 
 # Others Approachs
@@ -40,3 +42,6 @@ Curated awesome backend for frontend pattern presented by [Sam Newman](https://s
 
 * [Embracing the Differences : Inside the Netflix API Redesign](https://medium.com/netflix-techblog/embracing-the-differences-inside-the-netflix-api-redesign-15fd8b3dc49d)
 * [Api Gateway Pattern](https://freecontent.manning.com/the-api-gateway-pattern/)
+* [Pattern: API Gateway / Backend for Front-End
+Context](https://microservices.io/patterns/apigateway.html)
+* [Api Composition](https://microservices.io/patterns/data/api-composition.html)
