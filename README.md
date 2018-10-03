@@ -5,6 +5,7 @@ Curated awesome backend for frontend pattern presented by [Sam Newman](https://s
 # Backends For Frontend Pattern
 
 ## Talks
+* [How to use the Backend for Frontend (BFF) pattern in your mobile application architecture](https://www.safaribooksonline.com/videos/oreilly-software-architecture/9781491985274/9781491985274-video315419)
 * [BFF Pattern in Action: SoundCloud’s Microservices](https://www.youtube.com/watch?v=jfN6HOgURXM)
 * [Backends for frontends with GraphQL](https://youtu.be/GLp2RccPPIo)
 * [Why Backend for Frontend Is Key to Your Microservices Journey](https://www.youtube.com/watch?v=PwgQZ8eCGxA)
