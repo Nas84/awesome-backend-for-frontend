@@ -14,3 +14,7 @@ Curated awesome backend for frontend pattern presented by [Sam Newman](https://s
 ## Podcast
 
 * [BFF @ SoundCloud - Podcast](https://www.thoughtworks.com/insights/blog/podcast-bff-soundcloud-0)
+
+## Slides
+
+[Como BFF (Backend for Frontend) pode ser seu melhor amigo para lidar com diferentes frontends](https://www.slideshare.net/tdc-globalcode/tdc2018sp-trilha-microservices-como-bff-backend-for-frontend-pode-ser-seu-melhor-amigo-para-lidar-com-diferentes-frontends?qid=051a6085-9e58-42bf-bd35-8fd97c9b303a&v=&b=&from_search=1)
