@@ -21,7 +21,7 @@ Curated awesome backend for frontend pattern presented by [Sam Newman](https://s
 * [Backend for frontend, Facade or Gateway? It depends.](http://dev.academicwork.se/backend-for-frontend-facade-or-gateway-it-depends/)
 * [Building a Backend for Frontend (BFF) For Your Microservices](https://nordicapis.com/building-a-backend-for-frontend-shim-for-your-microservices/)
 
-*[SporTV Play front-end architecture for the Olympic Games](https://blog.guilhermegarnier.com/2017/04/sportv_play_front_end_architecture_for_the_olympic_games/)
+* [SporTV Play front-end architecture for the Olympic Games](https://blog.guilhermegarnier.com/2017/04/sportv_play_front_end_architecture_for_the_olympic_games/)
 
 
 ## Podcast
