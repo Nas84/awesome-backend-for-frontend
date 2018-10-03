@@ -24,3 +24,8 @@ Curated awesome backend for frontend pattern presented by [Sam Newman](https://s
 
 
 # Others Approachs
+
+
+## Blog posts
+
+* [Embracing the Differences : Inside the Netflix API Redesign](https://medium.com/netflix-techblog/embracing-the-differences-inside-the-netflix-api-redesign-15fd8b3dc49d)
