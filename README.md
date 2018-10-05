@@ -46,3 +46,5 @@ Curated awesome backend for frontend pattern presented by [Phil Calçado](http:/
 Context](https://microservices.io/patterns/apigateway.html)
 * [Api Composition](https://microservices.io/patterns/data/api-composition.html)
 * [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
+* [Building Microservices: Using an API Gateway](
+https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
