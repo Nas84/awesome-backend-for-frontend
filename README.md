@@ -48,4 +48,4 @@ Context](https://microservices.io/patterns/apigateway.html)
 * [API-Led Connectivity](https://dzone.com/articles/api-led-connectivity-with-mule)
 * [Building Microservices: Using an API Gateway](
 https://www.nginx.com/blog/building-microservices-using-an-api-gateway/)
-[Some thoughts graphql bff](https://philcalcado.com/2019/07/12/some_thoughts_graphql_bff)
+* [Some thoughts graphql bff](https://philcalcado.com/2019/07/12/some_thoughts_graphql_bff)
